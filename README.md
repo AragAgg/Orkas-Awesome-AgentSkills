@@ -235,6 +235,10 @@ Orkas open-source version: https://github.com/Orkas-AI/Orkas
   </thead>
   <tbody>
     <tr>
+      <td width="220" nowrap><a href="product/skills/cohesivity-backend/"><strong>cohesivity-backend</strong></a></td>
+      <td>Provision backend infrastructure on the fly. Databases, hosting, auth, storage, email, realtime, AI inference, search, browser automation, and more. No API keys required to get started. Offers agentic signups.</td>
+    </tr>
+    <tr>
       <td width="220" nowrap><a href="product/skills/github/"><strong>github</strong></a></td>
       <td>Use GitHub CLI for basic GitHub operations: inspect issues, pull requests, CI runs, releases, and GitHub API data. Use this whenever the user asks to list, view, create, update, or check GitHub repository data.</td>
     </tr>
